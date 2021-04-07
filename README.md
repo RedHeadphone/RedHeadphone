@@ -1,2 +1,2 @@
 Hi there 👋
-## (https://redheadphone.github.io/)
+## https://redheadphone.github.io/
