@@ -7,6 +7,13 @@
 
 </span>
 
+<!-- <h2><b>📈 Competetive Programming Profiles</b></h2>
+<span>
+<img height="300" src="https://leetcard.jacoblin.cool/RedHeadphone?theme=light&font=Karma&ext=contest" />
+<img height="300" src="" />
+</span> -->
+
+
 <h2><b>🧩 Technologies worked with</b></h2>
 
 <p align="left">
