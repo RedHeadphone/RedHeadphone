@@ -2,8 +2,8 @@
 
 <span>
 
-<img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=RedHeadphone&layout=compact&langs_count=8&theme=github_dark" alt="RedHeadphone Top Languages" />
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=RedHeadphone&show_icons=true&count_private=true&theme=github_dark" alt="RedHeadphone Stats" />
+<img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=RedHeadphone&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP" alt="RedHeadphone Top Languages" />
+<img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api?username=RedHeadphone&show_icons=true&count_private=true&theme=github_dark" alt="RedHeadphone Stats" />
 
 </span>
 
