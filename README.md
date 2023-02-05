@@ -13,10 +13,10 @@
 
 <span>
 <a href="https://leetcode.com/RedHeadphone">
-<img height="300" src="https://leetcard.jacoblin.cool/redheadphone?theme=dark&font=Ubuntu&ext=contest" />
+<img height="272" src="https://leetcard.jacoblin.cool/redheadphone?theme=dark&font=Ubuntu&ext=contest" />
 </a>
 <a href="https://codeforces.com/profile/redheadphone">
-<img height="300" src="https://codeforces-readme-stats.vercel.app/api/card?username=RedHeadphone&theme=dark_lc&forceusername=true" />
+<img height="272" src="https://codeforces-readme-stats.vercel.app/api/card?username=RedHeadphone&theme=dark_lc&forceusername=true" />
 </a>
 </span>
 
