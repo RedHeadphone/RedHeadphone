@@ -2,8 +2,8 @@
 
 <span>
 <a href="https://github.com/RedHeadphone">
-<img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=RedHeadphone&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP" alt="RedHeadphone Top Languages" />
-<img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api?username=RedHeadphone&show_icons=true&count_private=true&theme=github_dark" alt="RedHeadphone Stats" />
+<img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=RedHeadphone&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="RedHeadphone Top Languages" />
+<img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api?username=RedHeadphone&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="RedHeadphone Stats" />
 </a>
 </span>
 
@@ -13,10 +13,10 @@
 
 <span>
 <a href="https://leetcode.com/RedHeadphone">
-<img height="272" src="https://leetcard.jacoblin.cool/redheadphone?theme=dark&font=Ubuntu&ext=contest" />
-</a>
 <a href="https://codeforces.com/profile/redheadphone">
-<img height="272" src="https://codeforces-readme-stats.vercel.app/api/card?username=RedHeadphone&theme=dark_lc&forceusername=true" />
+<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=RedHeadphone&theme=github_dark&force_username=true&border_color=404040" />
+</a>
+<img height="316" src="https://leetcard.jacoblin.cool/redheadphone?theme=dark&font=Ubuntu&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" />
 </a>
 </span>
 
