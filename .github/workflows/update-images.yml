@@ -1,0 +1,32 @@
+name: Update Images
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update-images:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: pip install requests
+
+    - name: Run update script
+      run: python update_images.py
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        git add -A
+        git commit -m "Update README images"
+        git push
