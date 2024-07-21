@@ -2,8 +2,8 @@
 
 <span>
 <a href="https://github.com/RedHeadphone">
-<img height="173" src="stats/github_stats.svg" alt="RedHeadphone Github Stats" />
-<img height="173" src="stats/top_langs.svg" alt="RedHeadphone Github Top Languages" />
+<img height="174" src="stats/github_stats.svg" alt="RedHeadphone Github Stats" />
+<img height="174" src="stats/top_langs.svg" alt="RedHeadphone Github Top Languages" />
 </a>
 </span>
 
@@ -11,10 +11,10 @@
 
 <span>
 <a href="https://codeforces.com/profile/redheadphone">
-<img height="316" src="stats/codeforces_stats.svg" alt="redheadphone Codeforces Stats"/>
+<img height="322" src="stats/codeforces_stats.svg" alt="redheadphone Codeforces Stats"/>
 </a>
 <a href="https://leetcode.com/RedHeadphone">
-<img height="316" src="stats/leetcode_stats.svg" alt="RedHeadphone Leetcode Stats"/>
+<img height="322" src="stats/leetcode_stats.svg" alt="RedHeadphone Leetcode Stats"/>
 </a>
 </span>
 
