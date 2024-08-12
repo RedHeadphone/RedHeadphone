@@ -7,7 +7,7 @@
 </a>
 </span>
 
-## 📈 Coding profiles
+## 📈 Coding profiles stats
 
 <span>
 <a href="https://codeforces.com/profile/redheadphone">
