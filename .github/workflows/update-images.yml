@@ -3,6 +3,9 @@ name: Update Images
 on:
   schedule:
     - cron: '0 0 * * *'
+  push:
+    branches:
+      - master
 
 jobs:
   update-images:
@@ -12,16 +15,11 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.x'
-
-    - name: Install dependencies
-      run: pip install requests
+    - name: Make bash script executable
+      run: chmod +x update_images.bash
 
     - name: Run update script
-      run: python update_images.py
+      run: ./update_images.bash
 
     - name: Commit and push changes
       run: |
