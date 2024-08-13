@@ -18,7 +18,7 @@
       width: calc(100% - 1px);
       height: calc(100% - 1px);
       fill: #0D1117;
-      stroke: #404040;
+      stroke: #30363d;
       stroke-width: 1;
       rx: 4px;
       ry: 4px;
