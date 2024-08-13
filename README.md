@@ -1,27 +1,22 @@
 ## 📊 Github stats
 
-<span>
-<a href="https://github.com/RedHeadphone">
+<a href="https://github.com/RedHeadphone" style="text-decoration: none;">
 <img height="174" src="stats/github_stats.svg" alt="RedHeadphone Github Stats" />
 <img height="174" src="stats/top_langs.svg" alt="RedHeadphone Github Top Languages" />
 </a>
-</span>
 
 ## 📈 Coding profiles stats
 
-<span>
-<a href="https://codeforces.com/profile/redheadphone">
+<a href="https://codeforces.com/profile/redheadphone" style="text-decoration: none;">
 <img height="322" src="stats/codeforces_stats.svg" alt="redheadphone Codeforces Stats"/>
 </a>
-<a href="https://leetcode.com/RedHeadphone">
+<a href="https://leetcode.com/RedHeadphone" style="text-decoration: none;">
 <img height="322" src="stats/leetcode_stats.svg" alt="RedHeadphone Leetcode Stats"/>
 </a>
-</span>
 
 ## 🧩 Technologies worked with
 
 <p>
-
 <img alt="Python" src="https://img.shields.io/badge/Python-3f7cad.svg?logo=python&logoColor=white">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-20232A.svg?logo=javascript&logoColor=F7DF1E">
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-58af50.svg?logo=node.js&logoColor=white">
@@ -46,5 +41,4 @@
 <img alt="Linux" src="https://img.shields.io/badge/Linux-f6db47?logo=linux&logoColor=black">
 <img alt="Vercel" src="https://img.shields.io/badge/Vercel-20232A.svg?logo=vercel&logoColor=white">
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
-
 </p>
