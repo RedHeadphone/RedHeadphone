@@ -16,12 +16,17 @@ declare -A image_api_endpoints=(
 download_image() {
     local image_name="$1"
     local url="$2"
-    curl -o "${stats_dir}/${image_name}" -s -w "%{http_code}" "${url}" | {
-        read -r http_code
-        if [ "$http_code" != "200" ]; then
-            echo "Failed to download ${image_name} from ${url}"
-        fi
-    }
+    local temp_file="$(mktemp)" # Create a temporary file
+
+    # Download the image into the temporary file
+    http_code=$(curl -o "$temp_file" -s -w "%{http_code}" "$url")
+    
+    if [ "$http_code" == "200" ]; then
+        mv "$temp_file" "${stats_dir}/${image_name}" # Move the temp file to the final destination
+    else
+        echo "Failed to download ${image_name} from ${url}. HTTP status: $http_code"
+        rm -f "$temp_file" # Delete the temporary file
+    fi
 }
 
 # Main loop to download all images
