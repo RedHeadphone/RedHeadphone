@@ -7,7 +7,7 @@ mkdir -p "$stats_dir"
 # Associative array mapping image file names to API endpoints
 declare -A image_api_endpoints=(
     ["github_stats.svg"]="https://github-readme-stats.vercel.app/api?username=RedHeadphone&show_icons=true&hide=contribs&theme=github_dark&border_color=30363d"
-    ["top_langs.svg"]="https://github-readme-stats.vercel.app/api/top-langs/?username=RedHeadphone&layout=compact&langs_count=6&theme=github_dark&border_color=30363d"
+    ["top_langs.svg"]="https://github-readme-stats.vercel.app/api/top-langs/?username=RedHeadphone&layout=compact&langs_count=6&theme=github_dark&border_color=30363d&size_weight=0.5&count_weight=0.5&hide=css"
     ["codeforces_stats.svg"]="https://codeforces-readme-stats.vercel.app/api/card?username=redheadphone&theme=github_dark&force_username=true&border_color=30363d"
     ["leetcode_stats.svg"]="https://leetcard.jacoblin.cool/redheadphone?theme=dark&font=noto_sans&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/164541033f8ae34e5ef6789c0d1ee627ece80f01/leetcode_stats_card.css"
 )
