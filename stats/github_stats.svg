@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Huzaifa Khilawala's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 107, Total Commits in 2025 : 162, Total PRs: 82, Total Issues: 64</desc>
+        <desc id="descId">Total Stars Earned: 107, Total Commits in 2025 : 164, Total PRs: 82, Total Issues: 64</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 100.53109355417233;
+        stroke-dashoffset: 100.38327360228489;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >162</text>
+      >164</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
