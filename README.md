@@ -1,17 +1,17 @@
 ## 📊 Github stats
 
 <span>
-<img height="174" src="stats/github_stats.svg" alt="RedHeadphone Github Stats" />
-<img height="174" src="stats/top_langs.svg" alt="RedHeadphone Github Top Languages" />
+<img height="165" src="stats/github_stats.svg" alt="RedHeadphone Github Stats" />
+<img height="165" src="stats/top_langs.svg" alt="RedHeadphone Github Top Languages" />
 </span>
 
 ## 📈 Coding profiles stats
 
 <a href="https://codeforces.com/profile/redheadphone">
-<img align="center" height="322" src="stats/codeforces_stats.svg" alt="redheadphone Codeforces Stats"/>
+<img align="center" height="312" src="stats/codeforces_stats.svg" alt="redheadphone Codeforces Stats"/>
 </a>
 <a href="https://leetcode.com/RedHeadphone">
-<img align="center" height="322" src="stats/leetcode_stats.svg" alt="RedHeadphone Leetcode Stats"/>
+<img align="center" height="312" src="stats/leetcode_stats.svg" alt="RedHeadphone Leetcode Stats"/>
 </a>
 
 ## 🧩 Technologies worked with
